@@ -1,0 +1,73 @@
+/* Images */
+#avivaLogo {
+    float: left;
+    margin-top: 2px;
+}
+
+#rbsLogo {
+    float: right;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+#natwestLogo {
+    margin-left: 5px;
+    margin-top: 22px;
+    float: right;
+}
+
+/* Divs */
+#siteMap {
+    background-color: #0a2f64;
+}
+
+#faqTitle {
+    background-color: #ffd900;
+}
+
+#faqTitle2 {
+    background-color: #ffd900;
+}
+
+#MISfaq {
+    background-color: #EDEDED;
+    margin-top: 20px;
+}
+
+#RBSfaq {
+    background-color: #EDEDED;
+    margin-top: 20px;
+}
+
+#emptyDiv {
+    background-color: #ffd900;
+}
+
+#footer {
+    background-color: #ffd900;
+}
+
+/* Texts/Headers/Fonts */
+h4 {
+    text-align: left;
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif !important;
+    color: #0a2f64 !important;
+}
+
+h5 {
+    font-family: 'Montserrat', sans-serif !important;
+    text-align: center;
+    word-spacing: 20px;
+    color: #0a2f64 !important;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif !important;
+    text-align: center;
+    color: #0a2f64 !important;
+}
+
+ul {
+    color: #0a2f64 !important;
+}

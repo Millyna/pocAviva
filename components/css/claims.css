@@ -1,0 +1,215 @@
+/* Images */
+#avivaLogo {
+    float: left;
+    margin-top: 2px;
+}
+
+#rbsLogo {
+    float: right;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+#natwestLogo {
+    margin-left: 5px;
+    margin-top: 22px;
+    float: right;
+}
+
+#journeyImg {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-top: -10px;
+}
+
+#iPhoneThumb {
+    width: 100px !important;
+    float: right;
+}
+
+/* Divs */
+
+#journeyTitle {
+    background-color: #ffd900;
+}
+
+#impInfoTitle {
+    background-color: #ffd900;
+}
+
+#claimQuestionsTitle {
+    background-color: #ffd900;
+}
+
+#claimDecisionTitle {
+    background-color: #ffd900;
+}
+
+#siteMap {
+    background-color: #0a2f64;
+
+}
+
+#impInfo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #EDEDED;
+    border-color: #0a2f64;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+#deviceContent {
+    font-size: 25px !important;
+}
+
+#footer {
+    background-color: #ffd900;
+}
+
+#deviceBox2 {
+    background-color: #EDEDED;
+    border-color: #0a2f64;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+#claimQuestions {
+    background-color: #EDEDED;
+    border-color: #0a2f64;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#claimDecision {
+    background-color: #EDEDED;
+    border-color: #0a2f64;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#claimHistoryTitle {
+    background-color: #ffd900;
+}
+
+#claimHistory {
+    background-color: #EDEDED;
+    border-color: #0a2f64;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Texts/Headers/Fonts */
+h3 {
+    font-size: 18px !important;
+    font-family: 'Montserrat', sans-serif !important;
+    color: #0a2f64 !important;
+    font-weight: bold !important;
+}
+
+h4 {
+    text-align: left;
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif !important;
+    color: #0a2f64 !important;
+}
+
+h5 {
+    font-family: 'Montserrat', sans-serif !important;
+    text-align: center;
+    word-spacing: 20px;
+    color: #0a2f64 !important;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif !important;
+    text-align: center;
+    color: #0a2f64 !important;
+
+}
+
+p {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 15px;
+    color: #0a2f64;
+}
+
+ul.deviceList {
+    list-style: none;
+    color: #0a2f64 !important;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul.impInfo {
+    color: #0a2f64 !important;
+}
+
+ul.impInfo2 {
+    color: #0a2f64 !important;
+}
+
+/*Buttons*/
+#confirmDeviceBtn {
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 120px;
+    color: #ffffff !important;
+    font-size: 25px;
+    background: #0a2f64;
+    padding: 7px 13px 10px 13px;
+    border: solid #0a2f64 3px;
+    text-decoration: none;
+}
+
+#confirmDeviceBtn:hover {
+    background: #0a2f64;
+    background-image: -webkit-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: -moz-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: -ms-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: -o-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: linear-gradient(to bottom, #0a2f64, #0b629c);
+    text-decoration: none;
+}
+
+#questionSubmitBtn {
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 250px;
+    color: #ffffff!important;
+    font-size: 25px;
+    background: #0a2f64;
+    padding: 7px 13px 10px 13px;
+    border: solid #0a2f64 3px;
+    text-decoration: none;
+}
+
+#questionSubmitBtn:hover {
+    background: #0a2f64;
+    background-image: -webkit-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: -moz-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: -ms-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: -o-linear-gradient(top, #0a2f64, #0b629c);
+    background-image: linear-gradient(to bottom, #0a2f64, #0b629c);
+    text-decoration: none;
+}
